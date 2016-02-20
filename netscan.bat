@@ -1,0 +1,1 @@
+powershell -File netscan.ps1 %1
